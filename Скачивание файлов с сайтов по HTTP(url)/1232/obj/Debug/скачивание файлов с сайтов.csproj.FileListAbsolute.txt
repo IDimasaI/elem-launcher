@@ -1,0 +1,11 @@
+C:\Users\Dmitriy\source\repos\1232\1232\bin\Debug\1232.exe.config
+C:\Users\Dmitriy\source\repos\1232\1232\bin\Debug\1232.exe
+C:\Users\Dmitriy\source\repos\1232\1232\bin\Debug\1232.pdb
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\скачивание файлов с сайтов.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\скачивание файлов с сайтов.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\_1232.Properties.Resources.resources
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\скачивание файлов с сайтов.csproj.GenerateResource.cache
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\скачивание файлов с сайтов.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\1232.exe
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\1232.pdb
+C:\Users\Dmitriy\source\repos\1232\1232\obj\Debug\DownloadFileForm.resources
